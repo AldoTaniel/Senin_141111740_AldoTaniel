@@ -1,0 +1,8 @@
+D:\College\Framework .NET Lanjutan\Senin_141111740_AldoTaniel\Latihan\volleyball_problem\bin\Debug\volleyball_problem.exe.config
+D:\College\Framework .NET Lanjutan\Senin_141111740_AldoTaniel\Latihan\volleyball_problem\bin\Debug\volleyball_problem.exe
+D:\College\Framework .NET Lanjutan\Senin_141111740_AldoTaniel\Latihan\volleyball_problem\bin\Debug\volleyball_problem.pdb
+D:\College\Framework .NET Lanjutan\Senin_141111740_AldoTaniel\Latihan\volleyball_problem\obj\Debug\volleyball_problem.Form1.resources
+D:\College\Framework .NET Lanjutan\Senin_141111740_AldoTaniel\Latihan\volleyball_problem\obj\Debug\volleyball_problem.Properties.Resources.resources
+D:\College\Framework .NET Lanjutan\Senin_141111740_AldoTaniel\Latihan\volleyball_problem\obj\Debug\volleyball_problem.csproj.GenerateResource.Cache
+D:\College\Framework .NET Lanjutan\Senin_141111740_AldoTaniel\Latihan\volleyball_problem\obj\Debug\volleyball_problem.exe
+D:\College\Framework .NET Lanjutan\Senin_141111740_AldoTaniel\Latihan\volleyball_problem\obj\Debug\volleyball_problem.pdb

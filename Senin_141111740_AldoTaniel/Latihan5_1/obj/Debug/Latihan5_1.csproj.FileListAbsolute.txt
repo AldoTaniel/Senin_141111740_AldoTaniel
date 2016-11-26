@@ -1,0 +1,10 @@
+D:\College\Framework .NET Lanjutan\Senin_141111740_AldoTaniel\Latihan\Latihan5_1\obj\Debug\Latihan_5_1.Form1.resources
+D:\College\Framework .NET Lanjutan\Senin_141111740_AldoTaniel\Latihan\Latihan5_1\obj\Debug\Latihan5_1.csproj.GenerateResource.Cache
+D:\College\Framework .NET Lanjutan\Senin_141111740_AldoTaniel\Latihan\Latihan5_1\bin\Debug\Latihan_5_1.exe.config
+D:\College\Framework .NET Lanjutan\Senin_141111740_AldoTaniel\Latihan\Latihan5_1\obj\Debug\Latihan_5_1.exe
+D:\College\Framework .NET Lanjutan\Senin_141111740_AldoTaniel\Latihan\Latihan5_1\obj\Debug\Latihan_5_1.pdb
+D:\College\Framework .NET Lanjutan\Senin_141111740_AldoTaniel\Latihan\Latihan5_1\bin\Debug\Latihan_5_1.exe
+D:\College\Framework .NET Lanjutan\Senin_141111740_AldoTaniel\Latihan\Latihan5_1\bin\Debug\Latihan_5_1.pdb
+D:\College\Framework .NET Lanjutan\Senin_141111740_AldoTaniel\Latihan\Latihan5_1\obj\Debug\Latihan5_1.csprojResolveAssemblyReference.cache
+D:\College\Framework .NET Lanjutan\Senin_141111740_AldoTaniel\Latihan\Latihan5_1\obj\Debug\Latihan_5_1.Properties.Resources.resources
+D:\College\Framework .NET Lanjutan\Senin_141111740_AldoTaniel\Latihan\Latihan5_1\obj\Debug\Latihan_5_1.Setting.resources

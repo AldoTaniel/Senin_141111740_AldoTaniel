@@ -1,0 +1,9 @@
+D:\College\Framework .NET Lanjutan\Senin_141111740_AldoTaniel\Latihan\Latihan3_1\obj\Debug\Latihan3_1.csprojResolveAssemblyReference.cache
+D:\College\Framework .NET Lanjutan\Senin_141111740_AldoTaniel\Latihan\Latihan3_1\obj\Debug\Latihan3_1.csproj.GenerateResource.Cache
+D:\College\Framework .NET Lanjutan\Senin_141111740_AldoTaniel\Latihan\Latihan3_1\bin\Debug\Latihan_3_1.exe.config
+D:\College\Framework .NET Lanjutan\Senin_141111740_AldoTaniel\Latihan\Latihan3_1\obj\Debug\Latihan_3_1.exe
+D:\College\Framework .NET Lanjutan\Senin_141111740_AldoTaniel\Latihan\Latihan3_1\obj\Debug\Latihan_3_1.pdb
+D:\College\Framework .NET Lanjutan\Senin_141111740_AldoTaniel\Latihan\Latihan3_1\bin\Debug\Latihan_3_1.exe
+D:\College\Framework .NET Lanjutan\Senin_141111740_AldoTaniel\Latihan\Latihan3_1\bin\Debug\Latihan_3_1.pdb
+D:\College\Framework .NET Lanjutan\Senin_141111740_AldoTaniel\Latihan\Latihan3_1\obj\Debug\Latihan_3_1.Form1.resources
+D:\College\Framework .NET Lanjutan\Senin_141111740_AldoTaniel\Latihan\Latihan3_1\obj\Debug\Latihan_3_1.Properties.Resources.resources

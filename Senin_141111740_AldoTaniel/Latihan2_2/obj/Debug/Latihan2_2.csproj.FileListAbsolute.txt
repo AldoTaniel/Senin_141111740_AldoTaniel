@@ -1,0 +1,9 @@
+D:\College\Framework .NET Lanjutan\Senin_141111740_AldoTaniel\Latihan\Latihan2_2\bin\Debug\Latihan2_2.exe.config
+D:\College\Framework .NET Lanjutan\Senin_141111740_AldoTaniel\Latihan\Latihan2_2\bin\Debug\Latihan2_2.exe
+D:\College\Framework .NET Lanjutan\Senin_141111740_AldoTaniel\Latihan\Latihan2_2\bin\Debug\Latihan2_2.pdb
+D:\College\Framework .NET Lanjutan\Senin_141111740_AldoTaniel\Latihan\Latihan2_2\obj\Debug\Latihan2_2.Form1.resources
+D:\College\Framework .NET Lanjutan\Senin_141111740_AldoTaniel\Latihan\Latihan2_2\obj\Debug\Latihan2_2.Properties.Resources.resources
+D:\College\Framework .NET Lanjutan\Senin_141111740_AldoTaniel\Latihan\Latihan2_2\obj\Debug\Latihan2_2.csproj.GenerateResource.Cache
+D:\College\Framework .NET Lanjutan\Senin_141111740_AldoTaniel\Latihan\Latihan2_2\obj\Debug\Latihan2_2.exe
+D:\College\Framework .NET Lanjutan\Senin_141111740_AldoTaniel\Latihan\Latihan2_2\obj\Debug\Latihan2_2.pdb
+D:\College\Framework .NET Lanjutan\Senin_141111740_AldoTaniel\Latihan\Latihan2_2\obj\Debug\Latihan2_2.csprojResolveAssemblyReference.cache
