@@ -1,0 +1,129 @@
+D:\new\Senin_141110965_TomiAditiya\LatihanPos\bin\Debug\LatihanPos.exe.config
+D:\new\Senin_141110965_TomiAditiya\LatihanPos\bin\Debug\LatihanPos.exe
+D:\new\Senin_141110965_TomiAditiya\LatihanPos\bin\Debug\LatihanPos.pdb
+D:\new\Senin_141110965_TomiAditiya\LatihanPos\bin\Debug\MaterialSkin.dll
+D:\new\Senin_141110965_TomiAditiya\LatihanPos\obj\Debug\LatihanPos.csprojResolveAssemblyReference.cache
+D:\new\Senin_141110965_TomiAditiya\LatihanPos\obj\Debug\LatihanPos.Properties.Resources.resources
+D:\new\Senin_141110965_TomiAditiya\LatihanPos\obj\Debug\LatihanPos.csproj.GenerateResource.Cache
+D:\new\Senin_141110965_TomiAditiya\LatihanPos\obj\Debug\LatihanPos.exe
+D:\new\Senin_141110965_TomiAditiya\LatihanPos\obj\Debug\LatihanPos.pdb
+D:\new\Senin_141110965_TomiAditiya\LatihanPos\bin\Debug\MetroFramework.Design.dll
+D:\new\Senin_141110965_TomiAditiya\LatihanPos\bin\Debug\MetroFramework.dll
+D:\new\Senin_141110965_TomiAditiya\LatihanPos\bin\Debug\MetroFramework.Fonts.dll
+D:\new\Senin_141110965_TomiAditiya\LatihanPos\obj\Debug\LatihanPos.Application.resources
+D:\new\Senin_141110965_TomiAditiya\LatihanPos\obj\Debug\LatihanPos.login.resources
+D:\new\Senin_141110965_TomiAditiya\LatihanPos\bin\Debug\Microsoft.VisualBasic.PowerPacks.Design.dll
+D:\new\Senin_141110965_TomiAditiya\LatihanPos\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+D:\new\Senin_141110965_TomiAditiya\LatihanPos\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+D:\new\Senin_141110965_TomiAditiya\LatihanPos\bin\Debug\MySql.Data.dll
+D:\new\Senin_141110965_TomiAditiya\LatihanPos\obj\Debug\LatihanPos.menuUtama.resources
+D:\new\Senin_141110965_TomiAditiya\LatihanPos\obj\Debug\LatihanPos.menuBarang.resources
+D:\new\Senin_141110965_TomiAditiya\LatihanPos\obj\Debug\LatihanPos.tambahBarang.resources
+D:\new\Senin_141110965_TomiAditiya\LatihanPos\obj\Debug\LatihanPos.editBarang.resources
+E:\STMIK\Frameworkk\Senin_141110965_TomiAditiya-master\Senin_141110965_TomiAditiya-master\Senin_141110965_TomiAditiya\LatihanPos\bin\Debug\LatihanPos.exe.config
+E:\STMIK\Frameworkk\Senin_141110965_TomiAditiya-master\Senin_141110965_TomiAditiya-master\Senin_141110965_TomiAditiya\LatihanPos\obj\Debug\LatihanPos.exe
+E:\STMIK\Frameworkk\Senin_141110965_TomiAditiya-master\Senin_141110965_TomiAditiya-master\Senin_141110965_TomiAditiya\LatihanPos\obj\Debug\LatihanPos.pdb
+E:\STMIK\Frameworkk\Senin_141110965_TomiAditiya-master\Senin_141110965_TomiAditiya-master\Senin_141110965_TomiAditiya\LatihanPos\bin\Debug\LatihanPos.exe
+E:\STMIK\Frameworkk\Senin_141110965_TomiAditiya-master\Senin_141110965_TomiAditiya-master\Senin_141110965_TomiAditiya\LatihanPos\bin\Debug\LatihanPos.pdb
+E:\STMIK\Frameworkk\Senin_141110965_TomiAditiya-master\Senin_141110965_TomiAditiya-master\Senin_141110965_TomiAditiya\LatihanPos\bin\Debug\MaterialSkin.dll
+E:\STMIK\Frameworkk\Senin_141110965_TomiAditiya-master\Senin_141110965_TomiAditiya-master\Senin_141110965_TomiAditiya\LatihanPos\bin\Debug\MetroFramework.Design.dll
+E:\STMIK\Frameworkk\Senin_141110965_TomiAditiya-master\Senin_141110965_TomiAditiya-master\Senin_141110965_TomiAditiya\LatihanPos\bin\Debug\MetroFramework.dll
+E:\STMIK\Frameworkk\Senin_141110965_TomiAditiya-master\Senin_141110965_TomiAditiya-master\Senin_141110965_TomiAditiya\LatihanPos\bin\Debug\MetroFramework.Fonts.dll
+E:\STMIK\Frameworkk\Senin_141110965_TomiAditiya-master\Senin_141110965_TomiAditiya-master\Senin_141110965_TomiAditiya\LatihanPos\bin\Debug\MySql.Data.dll
+E:\STMIK\Frameworkk\Senin_141110965_TomiAditiya-master\Senin_141110965_TomiAditiya-master\Senin_141110965_TomiAditiya\LatihanPos\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+E:\STMIK\Frameworkk\Senin_141110965_TomiAditiya-master\Senin_141110965_TomiAditiya-master\Senin_141110965_TomiAditiya\LatihanPos\obj\Debug\LatihanPos.csprojResolveAssemblyReference.cache
+E:\STMIK\Frameworkk\Senin_141110965_TomiAditiya-master\Senin_141110965_TomiAditiya-master\Senin_141110965_TomiAditiya\LatihanPos\obj\Debug\LatihanPos.Application.resources
+E:\STMIK\Frameworkk\Senin_141110965_TomiAditiya-master\Senin_141110965_TomiAditiya-master\Senin_141110965_TomiAditiya\LatihanPos\obj\Debug\LatihanPos.editBarang.resources
+E:\STMIK\Frameworkk\Senin_141110965_TomiAditiya-master\Senin_141110965_TomiAditiya-master\Senin_141110965_TomiAditiya\LatihanPos\obj\Debug\LatihanPos.login.resources
+E:\STMIK\Frameworkk\Senin_141110965_TomiAditiya-master\Senin_141110965_TomiAditiya-master\Senin_141110965_TomiAditiya\LatihanPos\obj\Debug\LatihanPos.menuBarang.resources
+E:\STMIK\Frameworkk\Senin_141110965_TomiAditiya-master\Senin_141110965_TomiAditiya-master\Senin_141110965_TomiAditiya\LatihanPos\obj\Debug\LatihanPos.menuUtama.resources
+E:\STMIK\Frameworkk\Senin_141110965_TomiAditiya-master\Senin_141110965_TomiAditiya-master\Senin_141110965_TomiAditiya\LatihanPos\obj\Debug\LatihanPos.Properties.Resources.resources
+E:\STMIK\Frameworkk\Senin_141110965_TomiAditiya-master\Senin_141110965_TomiAditiya-master\Senin_141110965_TomiAditiya\LatihanPos\obj\Debug\LatihanPos.tambahBarang.resources
+E:\STMIK\Frameworkk\Senin_141110965_TomiAditiya-master\Senin_141110965_TomiAditiya-master\Senin_141110965_TomiAditiya\LatihanPos\obj\Debug\LatihanPos.csproj.GenerateResource.Cache
+E:\STMIK\Frameworkk\Senin_141110965_TomiAditiya-master\Senin_141110965_TomiAditiya-master\Senin_141110965_TomiAditiya\LatihanPos\obj\Debug\LatihanPos.menuCustomer.resources
+E:\STMIK\Frameworkk\Senin_141110965_TomiAditiya-master\Senin_141110965_TomiAditiya-master\Senin_141110965_TomiAditiya\LatihanPos\obj\Debug\LatihanPos.tambahCustomer.resources
+E:\STMIK\Frameworkk\Senin_141110965_TomiAditiya-master\Senin_141110965_TomiAditiya-master\Senin_141110965_TomiAditiya\LatihanPos\obj\Debug\LatihanPos.EditCustomer.resources
+E:\STMIK\Frameworkk\Senin_141110965_TomiAditiya\LatihanPos\bin\Debug\LatihanPos.exe.config
+E:\STMIK\Frameworkk\Senin_141110965_TomiAditiya\LatihanPos\obj\Debug\LatihanPos.exe
+E:\STMIK\Frameworkk\Senin_141110965_TomiAditiya\LatihanPos\obj\Debug\LatihanPos.pdb
+E:\STMIK\Frameworkk\Senin_141110965_TomiAditiya\LatihanPos\bin\Debug\LatihanPos.exe
+E:\STMIK\Frameworkk\Senin_141110965_TomiAditiya\LatihanPos\bin\Debug\LatihanPos.pdb
+E:\STMIK\Frameworkk\Senin_141110965_TomiAditiya\LatihanPos\bin\Debug\MaterialSkin.dll
+E:\STMIK\Frameworkk\Senin_141110965_TomiAditiya\LatihanPos\bin\Debug\MetroFramework.Design.dll
+E:\STMIK\Frameworkk\Senin_141110965_TomiAditiya\LatihanPos\bin\Debug\MetroFramework.dll
+E:\STMIK\Frameworkk\Senin_141110965_TomiAditiya\LatihanPos\bin\Debug\MetroFramework.Fonts.dll
+E:\STMIK\Frameworkk\Senin_141110965_TomiAditiya\LatihanPos\bin\Debug\MySql.Data.dll
+E:\STMIK\Frameworkk\Senin_141110965_TomiAditiya\LatihanPos\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+E:\STMIK\Frameworkk\Senin_141110965_TomiAditiya\LatihanPos\obj\Debug\LatihanPos.csprojResolveAssemblyReference.cache
+E:\STMIK\Frameworkk\Senin_141110965_TomiAditiya\LatihanPos\obj\Debug\LatihanPos.Application.resources
+E:\STMIK\Frameworkk\Senin_141110965_TomiAditiya\LatihanPos\obj\Debug\LatihanPos.editBarang.resources
+E:\STMIK\Frameworkk\Senin_141110965_TomiAditiya\LatihanPos\obj\Debug\LatihanPos.EditCustomer.resources
+E:\STMIK\Frameworkk\Senin_141110965_TomiAditiya\LatihanPos\obj\Debug\LatihanPos.login.resources
+E:\STMIK\Frameworkk\Senin_141110965_TomiAditiya\LatihanPos\obj\Debug\LatihanPos.menuBarang.resources
+E:\STMIK\Frameworkk\Senin_141110965_TomiAditiya\LatihanPos\obj\Debug\LatihanPos.menuCustomer.resources
+E:\STMIK\Frameworkk\Senin_141110965_TomiAditiya\LatihanPos\obj\Debug\LatihanPos.menuSuplier.resources
+E:\STMIK\Frameworkk\Senin_141110965_TomiAditiya\LatihanPos\obj\Debug\LatihanPos.menuUtama.resources
+E:\STMIK\Frameworkk\Senin_141110965_TomiAditiya\LatihanPos\obj\Debug\LatihanPos.Properties.Resources.resources
+E:\STMIK\Frameworkk\Senin_141110965_TomiAditiya\LatihanPos\obj\Debug\LatihanPos.tambahBarang.resources
+E:\STMIK\Frameworkk\Senin_141110965_TomiAditiya\LatihanPos\obj\Debug\LatihanPos.tambahCustomer.resources
+E:\STMIK\Frameworkk\Senin_141110965_TomiAditiya\LatihanPos\obj\Debug\LatihanPos.csproj.GenerateResource.Cache
+E:\STMIK\Frameworkk\Senin_141110965_TomiAditiya\LatihanPos\obj\Debug\LatihanPos.editSuplier.resources
+E:\STMIK\Frameworkk\Senin_141110965_TomiAditiya\LatihanPos\obj\Debug\LatihanPos.tambahSuplier.resources
+E:\STMIK\Frameworkk\Senin_141110965_TomiAditiya\LatihanPos\obj\Debug\LatihanPos.penjualan.resources
+E:\STMIK\Frameworkk\Senin_141110965_TomiAditiya\LatihanPos\obj\Debug\LatihanPos.pembelian.resources
+C:\Users\Macdoze\Downloads\Senin_141110965_TomiAditiya-master\Senin_141110965_TomiAditiya-master\Senin_141110965_TomiAditiya\LatihanPos\bin\Debug\LatihanPos.exe.config
+C:\Users\Macdoze\Downloads\Senin_141110965_TomiAditiya-master\Senin_141110965_TomiAditiya-master\Senin_141110965_TomiAditiya\LatihanPos\obj\Debug\LatihanPos.exe
+C:\Users\Macdoze\Downloads\Senin_141110965_TomiAditiya-master\Senin_141110965_TomiAditiya-master\Senin_141110965_TomiAditiya\LatihanPos\obj\Debug\LatihanPos.pdb
+C:\Users\Macdoze\Downloads\Senin_141110965_TomiAditiya-master\Senin_141110965_TomiAditiya-master\Senin_141110965_TomiAditiya\LatihanPos\bin\Debug\LatihanPos.exe
+C:\Users\Macdoze\Downloads\Senin_141110965_TomiAditiya-master\Senin_141110965_TomiAditiya-master\Senin_141110965_TomiAditiya\LatihanPos\bin\Debug\LatihanPos.pdb
+C:\Users\Macdoze\Downloads\Senin_141110965_TomiAditiya-master\Senin_141110965_TomiAditiya-master\Senin_141110965_TomiAditiya\LatihanPos\bin\Debug\MaterialSkin.dll
+C:\Users\Macdoze\Downloads\Senin_141110965_TomiAditiya-master\Senin_141110965_TomiAditiya-master\Senin_141110965_TomiAditiya\LatihanPos\bin\Debug\MetroFramework.Design.dll
+C:\Users\Macdoze\Downloads\Senin_141110965_TomiAditiya-master\Senin_141110965_TomiAditiya-master\Senin_141110965_TomiAditiya\LatihanPos\bin\Debug\MetroFramework.dll
+C:\Users\Macdoze\Downloads\Senin_141110965_TomiAditiya-master\Senin_141110965_TomiAditiya-master\Senin_141110965_TomiAditiya\LatihanPos\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Macdoze\Downloads\Senin_141110965_TomiAditiya-master\Senin_141110965_TomiAditiya-master\Senin_141110965_TomiAditiya\LatihanPos\bin\Debug\MySql.Data.dll
+C:\Users\Macdoze\Downloads\Senin_141110965_TomiAditiya-master\Senin_141110965_TomiAditiya-master\Senin_141110965_TomiAditiya\LatihanPos\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Macdoze\Downloads\Senin_141110965_TomiAditiya-master\Senin_141110965_TomiAditiya-master\Senin_141110965_TomiAditiya\LatihanPos\obj\Debug\LatihanPos.csprojResolveAssemblyReference.cache
+C:\Users\Macdoze\Downloads\Senin_141110965_TomiAditiya-master\Senin_141110965_TomiAditiya-master\Senin_141110965_TomiAditiya\LatihanPos\obj\Debug\LatihanPos.Application.resources
+C:\Users\Macdoze\Downloads\Senin_141110965_TomiAditiya-master\Senin_141110965_TomiAditiya-master\Senin_141110965_TomiAditiya\LatihanPos\obj\Debug\LatihanPos.editBarang.resources
+C:\Users\Macdoze\Downloads\Senin_141110965_TomiAditiya-master\Senin_141110965_TomiAditiya-master\Senin_141110965_TomiAditiya\LatihanPos\obj\Debug\LatihanPos.EditCustomer.resources
+C:\Users\Macdoze\Downloads\Senin_141110965_TomiAditiya-master\Senin_141110965_TomiAditiya-master\Senin_141110965_TomiAditiya\LatihanPos\obj\Debug\LatihanPos.editSuplier.resources
+C:\Users\Macdoze\Downloads\Senin_141110965_TomiAditiya-master\Senin_141110965_TomiAditiya-master\Senin_141110965_TomiAditiya\LatihanPos\obj\Debug\LatihanPos.pembelian.resources
+C:\Users\Macdoze\Downloads\Senin_141110965_TomiAditiya-master\Senin_141110965_TomiAditiya-master\Senin_141110965_TomiAditiya\LatihanPos\obj\Debug\LatihanPos.penjualan.resources
+C:\Users\Macdoze\Downloads\Senin_141110965_TomiAditiya-master\Senin_141110965_TomiAditiya-master\Senin_141110965_TomiAditiya\LatihanPos\obj\Debug\LatihanPos.login.resources
+C:\Users\Macdoze\Downloads\Senin_141110965_TomiAditiya-master\Senin_141110965_TomiAditiya-master\Senin_141110965_TomiAditiya\LatihanPos\obj\Debug\LatihanPos.menuBarang.resources
+C:\Users\Macdoze\Downloads\Senin_141110965_TomiAditiya-master\Senin_141110965_TomiAditiya-master\Senin_141110965_TomiAditiya\LatihanPos\obj\Debug\LatihanPos.menuCustomer.resources
+C:\Users\Macdoze\Downloads\Senin_141110965_TomiAditiya-master\Senin_141110965_TomiAditiya-master\Senin_141110965_TomiAditiya\LatihanPos\obj\Debug\LatihanPos.menuSuplier.resources
+C:\Users\Macdoze\Downloads\Senin_141110965_TomiAditiya-master\Senin_141110965_TomiAditiya-master\Senin_141110965_TomiAditiya\LatihanPos\obj\Debug\LatihanPos.menuUtama.resources
+C:\Users\Macdoze\Downloads\Senin_141110965_TomiAditiya-master\Senin_141110965_TomiAditiya-master\Senin_141110965_TomiAditiya\LatihanPos\obj\Debug\LatihanPos.Properties.Resources.resources
+C:\Users\Macdoze\Downloads\Senin_141110965_TomiAditiya-master\Senin_141110965_TomiAditiya-master\Senin_141110965_TomiAditiya\LatihanPos\obj\Debug\LatihanPos.tambahBarang.resources
+C:\Users\Macdoze\Downloads\Senin_141110965_TomiAditiya-master\Senin_141110965_TomiAditiya-master\Senin_141110965_TomiAditiya\LatihanPos\obj\Debug\LatihanPos.tambahCustomer.resources
+C:\Users\Macdoze\Downloads\Senin_141110965_TomiAditiya-master\Senin_141110965_TomiAditiya-master\Senin_141110965_TomiAditiya\LatihanPos\obj\Debug\LatihanPos.tambahSuplier.resources
+C:\Users\Macdoze\Downloads\Senin_141110965_TomiAditiya-master\Senin_141110965_TomiAditiya-master\Senin_141110965_TomiAditiya\LatihanPos\obj\Debug\LatihanPos.csproj.GenerateResource.Cache
+D:\College\Framework .NET Lanjutan\Senin_141111740_AldoTaniel\LatihanPos\bin\Debug\LatihanPos.exe.config
+D:\College\Framework .NET Lanjutan\Senin_141111740_AldoTaniel\LatihanPos\obj\Debug\LatihanPos.exe
+D:\College\Framework .NET Lanjutan\Senin_141111740_AldoTaniel\LatihanPos\obj\Debug\LatihanPos.pdb
+D:\College\Framework .NET Lanjutan\Senin_141111740_AldoTaniel\LatihanPos\bin\Debug\LatihanPos.exe
+D:\College\Framework .NET Lanjutan\Senin_141111740_AldoTaniel\LatihanPos\bin\Debug\LatihanPos.pdb
+D:\College\Framework .NET Lanjutan\Senin_141111740_AldoTaniel\LatihanPos\bin\Debug\MaterialSkin.dll
+D:\College\Framework .NET Lanjutan\Senin_141111740_AldoTaniel\LatihanPos\bin\Debug\MetroFramework.Design.dll
+D:\College\Framework .NET Lanjutan\Senin_141111740_AldoTaniel\LatihanPos\bin\Debug\MetroFramework.dll
+D:\College\Framework .NET Lanjutan\Senin_141111740_AldoTaniel\LatihanPos\bin\Debug\MetroFramework.Fonts.dll
+D:\College\Framework .NET Lanjutan\Senin_141111740_AldoTaniel\LatihanPos\bin\Debug\MySql.Data.dll
+D:\College\Framework .NET Lanjutan\Senin_141111740_AldoTaniel\LatihanPos\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+D:\College\Framework .NET Lanjutan\Senin_141111740_AldoTaniel\LatihanPos\obj\Debug\LatihanPos.csprojResolveAssemblyReference.cache
+D:\College\Framework .NET Lanjutan\Senin_141111740_AldoTaniel\LatihanPos\obj\Debug\LatihanPos.Application.resources
+D:\College\Framework .NET Lanjutan\Senin_141111740_AldoTaniel\LatihanPos\obj\Debug\LatihanPos.editBarang.resources
+D:\College\Framework .NET Lanjutan\Senin_141111740_AldoTaniel\LatihanPos\obj\Debug\LatihanPos.EditCustomer.resources
+D:\College\Framework .NET Lanjutan\Senin_141111740_AldoTaniel\LatihanPos\obj\Debug\LatihanPos.editSuplier.resources
+D:\College\Framework .NET Lanjutan\Senin_141111740_AldoTaniel\LatihanPos\obj\Debug\LatihanPos.pembelian.resources
+D:\College\Framework .NET Lanjutan\Senin_141111740_AldoTaniel\LatihanPos\obj\Debug\LatihanPos.penjualan.resources
+D:\College\Framework .NET Lanjutan\Senin_141111740_AldoTaniel\LatihanPos\obj\Debug\LatihanPos.login.resources
+D:\College\Framework .NET Lanjutan\Senin_141111740_AldoTaniel\LatihanPos\obj\Debug\LatihanPos.menuBarang.resources
+D:\College\Framework .NET Lanjutan\Senin_141111740_AldoTaniel\LatihanPos\obj\Debug\LatihanPos.menuCustomer.resources
+D:\College\Framework .NET Lanjutan\Senin_141111740_AldoTaniel\LatihanPos\obj\Debug\LatihanPos.menuSuplier.resources
+D:\College\Framework .NET Lanjutan\Senin_141111740_AldoTaniel\LatihanPos\obj\Debug\LatihanPos.menuUtama.resources
+D:\College\Framework .NET Lanjutan\Senin_141111740_AldoTaniel\LatihanPos\obj\Debug\LatihanPos.Properties.Resources.resources
+D:\College\Framework .NET Lanjutan\Senin_141111740_AldoTaniel\LatihanPos\obj\Debug\LatihanPos.tambahBarang.resources
+D:\College\Framework .NET Lanjutan\Senin_141111740_AldoTaniel\LatihanPos\obj\Debug\LatihanPos.tambahCustomer.resources
+D:\College\Framework .NET Lanjutan\Senin_141111740_AldoTaniel\LatihanPos\obj\Debug\LatihanPos.tambahSuplier.resources
+D:\College\Framework .NET Lanjutan\Senin_141111740_AldoTaniel\LatihanPos\obj\Debug\LatihanPos.csproj.GenerateResource.Cache

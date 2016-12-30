@@ -1,0 +1,34 @@
+D:\College\Framework .NET Lanjutan\Senin_141111740_AldoTaniel\LatihanPos\bin\Debug\LatihanPos.exe.config
+D:\College\Framework .NET Lanjutan\Senin_141111740_AldoTaniel\LatihanPos\bin\Debug\LatihanPos.exe
+D:\College\Framework .NET Lanjutan\Senin_141111740_AldoTaniel\LatihanPos\bin\Debug\LatihanPos.pdb
+D:\College\Framework .NET Lanjutan\Senin_141111740_AldoTaniel\LatihanPos\bin\Debug\MaterialSkin.dll
+D:\College\Framework .NET Lanjutan\Senin_141111740_AldoTaniel\LatihanPos\bin\Debug\MetroFramework.Design.dll
+D:\College\Framework .NET Lanjutan\Senin_141111740_AldoTaniel\LatihanPos\bin\Debug\MetroFramework.dll
+D:\College\Framework .NET Lanjutan\Senin_141111740_AldoTaniel\LatihanPos\bin\Debug\MetroFramework.Fonts.dll
+D:\College\Framework .NET Lanjutan\Senin_141111740_AldoTaniel\LatihanPos\bin\Debug\MySql.Data.dll
+D:\College\Framework .NET Lanjutan\Senin_141111740_AldoTaniel\LatihanPos\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+D:\College\Framework .NET Lanjutan\Senin_141111740_AldoTaniel\LatihanPos\obj\Debug\POSapp.csprojResolveAssemblyReference.cache
+D:\College\Framework .NET Lanjutan\Senin_141111740_AldoTaniel\LatihanPos\obj\Debug\LatihanPos.Application.resources
+D:\College\Framework .NET Lanjutan\Senin_141111740_AldoTaniel\LatihanPos\obj\Debug\LatihanPos.editBarang.resources
+D:\College\Framework .NET Lanjutan\Senin_141111740_AldoTaniel\LatihanPos\obj\Debug\LatihanPos.EditCustomer.resources
+D:\College\Framework .NET Lanjutan\Senin_141111740_AldoTaniel\LatihanPos\obj\Debug\LatihanPos.editSuplier.resources
+D:\College\Framework .NET Lanjutan\Senin_141111740_AldoTaniel\LatihanPos\obj\Debug\LatihanPos.pembelian.resources
+D:\College\Framework .NET Lanjutan\Senin_141111740_AldoTaniel\LatihanPos\obj\Debug\LatihanPos.penjualan.resources
+D:\College\Framework .NET Lanjutan\Senin_141111740_AldoTaniel\LatihanPos\obj\Debug\LatihanPos.login.resources
+D:\College\Framework .NET Lanjutan\Senin_141111740_AldoTaniel\LatihanPos\obj\Debug\LatihanPos.menuBarang.resources
+D:\College\Framework .NET Lanjutan\Senin_141111740_AldoTaniel\LatihanPos\obj\Debug\LatihanPos.menuCustomer.resources
+D:\College\Framework .NET Lanjutan\Senin_141111740_AldoTaniel\LatihanPos\obj\Debug\LatihanPos.menuSuplier.resources
+D:\College\Framework .NET Lanjutan\Senin_141111740_AldoTaniel\LatihanPos\obj\Debug\LatihanPos.menuUtama.resources
+D:\College\Framework .NET Lanjutan\Senin_141111740_AldoTaniel\LatihanPos\obj\Debug\LatihanPos.Properties.Resources.resources
+D:\College\Framework .NET Lanjutan\Senin_141111740_AldoTaniel\LatihanPos\obj\Debug\LatihanPos.tambahBarang.resources
+D:\College\Framework .NET Lanjutan\Senin_141111740_AldoTaniel\LatihanPos\obj\Debug\LatihanPos.tambahCustomer.resources
+D:\College\Framework .NET Lanjutan\Senin_141111740_AldoTaniel\LatihanPos\obj\Debug\LatihanPos.tambahSuplier.resources
+D:\College\Framework .NET Lanjutan\Senin_141111740_AldoTaniel\LatihanPos\obj\Debug\POSapp.csproj.GenerateResource.Cache
+D:\College\Framework .NET Lanjutan\Senin_141111740_AldoTaniel\LatihanPos\obj\Debug\LatihanPos.exe
+D:\College\Framework .NET Lanjutan\Senin_141111740_AldoTaniel\LatihanPos\obj\Debug\LatihanPos.pdb
+D:\College\Framework .NET Lanjutan\Senin_141111740_AldoTaniel\POSapp\bin\Debug\LatihanPos.exe.config
+D:\College\Framework .NET Lanjutan\Senin_141111740_AldoTaniel\POSapp\obj\Debug\LatihanPos.exe
+D:\College\Framework .NET Lanjutan\Senin_141111740_AldoTaniel\POSapp\obj\Debug\LatihanPos.pdb
+D:\College\Github\Senin_141111740_AldoTaniel\Senin_141111740_AldoTaniel\POSapp\bin\Debug\LatihanPos.exe.config
+D:\College\Github\Senin_141111740_AldoTaniel\Senin_141111740_AldoTaniel\POSapp\obj\Debug\LatihanPos.exe
+D:\College\Github\Senin_141111740_AldoTaniel\Senin_141111740_AldoTaniel\POSapp\obj\Debug\LatihanPos.pdb
